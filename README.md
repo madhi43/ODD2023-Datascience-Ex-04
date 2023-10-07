@@ -43,7 +43,7 @@ import seaborn as sns
 from google.colab import files
 uploaded = files.upload()
 ```
-![image](https://github.com/madhi43/ODD2023-Datascience-Ex-04/assets/103943383/b71bfd7f-974e-4b9b-8e82-6cf029bdd7a5)
+![image](https://github.com/madhi43/ODD2023-Datascience-Ex-04/assets/103943383/f333ee32-22ef-45ce-b80c-04295978efd9)
 ```
 df = pd.read_csv('diabetes.csv')
 df
